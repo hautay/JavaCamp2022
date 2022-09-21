@@ -1,0 +1,26 @@
+
+public class Main {
+
+	public static void main(String[] args) {
+		mesajVer();
+		mesajVer();
+		mesajVer();
+		mesajVer();
+		
+		hesapla();
+		hesapla();
+		
+	}
+	
+	public static void mesajVer() {
+		System.out.println("Merhaba");
+		//10larca satır olduğunu düşün
+	}
+	public static void hesapla() {
+		System.out.println("Hesaplandı");
+		//10larca satır olduğunu düşün
+	}
+	
+	//DRY - Do not Repeat Yourself
+
+}

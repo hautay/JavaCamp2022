@@ -1,0 +1,10 @@
+
+public class Main {
+
+	public static void main(String[] args) {
+		String[] sehirler1=new String[] {"Ankara","İstanbul","İzmir"};
+		
+		sehirler1[0]="Bursa";
+		
+	}
+}

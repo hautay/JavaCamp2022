@@ -1,0 +1,12 @@
+
+public class CreditManager {
+
+	public void calculate() {
+		System.out.println("İhtiyaç Kredi hesaplandı");
+	}
+	
+	public void add() {
+		System.out.println("İhtiyaç Kredisi eklendi");
+	}
+
+}
