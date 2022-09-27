@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1681af07-f5f6-486b-a744-5f1b79075553" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/0/c07507cca836001d1e2296646dc6622f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/10/00c9fae42439001d18a4d3cb7debafd1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/11/004020622439001d18a4d3cb7debafd1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/11/20d8abb96638001d15a8de4fb1b6a477" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/13/5056d6bc2539001d18a4d3cb7debafd1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/18/b044708a6138001d15a8de4fb1b6a477" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/19/00d285e76638001d15a8de4fb1b6a477" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/1e/a0873d3d2139001d18a4d3cb7debafd1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/24/d06df9d75f38001d15a8de4fb1b6a477" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/25/d0e5d0e88836001d1e2296646dc6622f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/29/407fb6e86538001d15a8de4fb1b6a477" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/2a/203432172639001d18a4d3cb7debafd1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/2b/209eff2d9436001d1e2296646dc6622f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/3/a07e1c562339001d18a4d3cb7debafd1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/33/006bffd28836001d1e2296646dc6622f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/33/608c3aee8836001d1e2296646dc6622f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/34/30baf53c6638001d15a8de4fb1b6a477" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/3d/00f447456138001d15a8de4fb1b6a477" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/3f/50f639d91e39001d18a4d3cb7debafd1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/4/b02d136d6138001d15a8de4fb1b6a477" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/44/f0d722c22539001d18a4d3cb7debafd1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/46/70c59803a936001d1e2296646dc6622f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/46/b0b1472b6338001d15a8de4fb1b6a477" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/47/3052ec1c9536001d1e2296646dc6622f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/47/90a5678f1e39001d18a4d3cb7debafd1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/48/b0c68bcd6738001d15a8de4fb1b6a477" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/49/50e1934c2039001d18a4d3cb7debafd1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/49/a0d88d206638001d15a8de4fb1b6a477" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/4a/b0d1d4b52539001d18a4d3cb7debafd1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/5/60e546622539001d18a4d3cb7debafd1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/5/e0b3a85d1f39001d18a4d3cb7debafd1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/50/60d3e8982239001d18a4d3cb7debafd1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/58/500a25ba6738001d15a8de4fb1b6a477" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/5e/40d9109c2039001d18a4d3cb7debafd1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/63/40fc071d2139001d18a4d3cb7debafd1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/65/e0344e826138001d15a8de4fb1b6a477" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/66/40d29d296338001d15a8de4fb1b6a477" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/68/904acb996638001d15a8de4fb1b6a477" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/6c/806255592339001d18a4d3cb7debafd1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/70/b05b68266138001d15a8de4fb1b6a477" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/70/f0e3898a2139001d18a4d3cb7debafd1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/72/10b1542a6138001d15a8de4fb1b6a477" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/72/d0a2e4772139001d18a4d3cb7debafd1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/74/903640a66238001d15a8de4fb1b6a477" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/75/30adefa96638001d15a8de4fb1b6a477" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/76/c01144642139001d18a4d3cb7debafd1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/7e/00a59a868736001d1e2296646dc6622f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/85/f03847b92139001d18a4d3cb7debafd1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/88/a0195e716838001d15a8de4fb1b6a477" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/8a/4080fa5c2439001d18a4d3cb7debafd1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/8c/f0df79e22339001d18a4d3cb7debafd1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/8f/1040d4b56238001d15a8de4fb1b6a477" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/93/5057db172439001d18a4d3cb7debafd1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/96/001b42009636001d1e2296646dc6622f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/99/e0df1f122739001d18a4d3cb7debafd1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/9a/00f4fc186038001d15a8de4fb1b6a477" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/9c/f0ea12d49536001d1e2296646dc6622f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/9d/6005b6336638001d15a8de4fb1b6a477" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/a/1079a1bd2639001d18a4d3cb7debafd1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/a0/200827426538001d15a8de4fb1b6a477" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/a4/0010fcc56038001d15a8de4fb1b6a477" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/a6/4098fecf6338001d15a8de4fb1b6a477" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/a7/40fa918a2139001d18a4d3cb7debafd1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/a8/1004742c6038001d15a8de4fb1b6a477" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/ad/c039b9126338001d15a8de4fb1b6a477" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/b1/00679b422439001d18a4d3cb7debafd1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/b3/b03c8add6538001d15a8de4fb1b6a477" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/b7/2011cd1a9436001d1e2296646dc6622f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/b7/2075b3d46038001d15a8de4fb1b6a477" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/b8/3051dd1e6038001d15a8de4fb1b6a477" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/b9/d03e9703a936001d1e2296646dc6622f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/bd/305c6d6f2339001d18a4d3cb7debafd1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/be/c0bb9ff66138001d15a8de4fb1b6a477" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/bf/70de66906038001d15a8de4fb1b6a477" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/c/904d05d92539001d18a4d3cb7debafd1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/c/b0cea4c69536001d1e2296646dc6622f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/c4/d056d5da1e39001d18a4d3cb7debafd1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/c6/60921cd02539001d18a4d3cb7debafd1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/c8/c02b3db16238001d15a8de4fb1b6a477" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/c8/c0e2effc9536001d1e2296646dc6622f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/cc/80ba3c14b836001d1e2296646dc6622f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/cf/1061fed52339001d18a4d3cb7debafd1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/d1/40996c312439001d18a4d3cb7debafd1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/d1/803284a32039001d18a4d3cb7debafd1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/d8/409ee7a61f39001d18a4d3cb7debafd1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/e7/70769c4c6838001d15a8de4fb1b6a477" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/ea/e04647382239001d18a4d3cb7debafd1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/eb/d0dac5c72139001d18a4d3cb7debafd1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/ec/20676a9a1e39001d18a4d3cb7debafd1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/ec/80bb4f826138001d15a8de4fb1b6a477" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/ec/a09e1ce62239001d18a4d3cb7debafd1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/ec/f032dd08b836001d1e2296646dc6622f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/ed/60a782c02339001d18a4d3cb7debafd1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/ef/3042237f8936001d1e2296646dc6622f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/f2/a0dec1232339001d18a4d3cb7debafd1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/f5/006625289536001d1e2296646dc6622f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.history/ff/30b1e31a6738001d15a8de4fb1b6a477" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.projects/.org.eclipse.egit.core.cmp/.location" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.projects/IlkDers/.indexes/af/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.projects/IlkDers/.indexes/e4/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.projects/IlkDers/.markers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.projects/IlkDers/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.root/3.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.junit.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jsch.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.m2e.discovery.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.debug.core/.launches/Ana.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.debug.core/.launches/Main.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.debug.core/.launches/diziler.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.debug.core/.launches/donguler.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.debug.core/.launches/metotlar.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.debug.core/.launches/workshop1.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.debug.ui/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.egit.core/.org.eclipse.egit.core.cmp/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.egit.core/.org.eclipse.egit.core.cmp/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.jdt.core/1865797976.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.jdt.core/2843966820.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.jdt.core/4144766880.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.jdt.core/javaLikeNames.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.jdt.launching/.install.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/IlkDers/2022/9/38/refactorings.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/IlkDers/2022/9/38/refactorings.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/IlkDers/2022/9/39/refactorings.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/IlkDers/2022/9/39/refactorings.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.ltk.ui.refactoring/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.m2e.core/workspaceState.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.2.0.0.20220705-1221.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.tips.ide/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.tm.terminal.view.ui/.executables/data.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.ui.intro/introstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/.metadata/version.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/IlkDers/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/IlkDers/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/IlkDers/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/IlkDers/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/IlkDers/bin/CreditManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/IlkDers/bin/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/IlkDers/bin/MortgageManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/IlkDers/bin/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/IlkDers/bin/VehicleManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/IlkDers/bin/degiskenler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/IlkDers/bin/diziler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/IlkDers/bin/donguler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/IlkDers/bin/metotlar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/IlkDers/bin/sartBloklari.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/IlkDers/bin/workshop1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/IlkDers/src/CreditManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/IlkDers/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/IlkDers/src/MortgageManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/IlkDers/src/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/IlkDers/src/VehicleManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/IlkDers/src/degiskenler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/IlkDers/src/diziler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/IlkDers/src/donguler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/IlkDers/src/metotlar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/IlkDers/src/sartBloklari.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ilkdersodevleri/IlkDers/src/workshop1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../arkadasSayilar/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../arkadasSayilar/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../arkadasSayilar/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../arkadasSayilar/arkadasSayilar.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../arkadasSayilar/out/production/arkadasSayilar/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../arkadasSayilar/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../arraysDemo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../arraysDemo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../arraysDemo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../arraysDemo/arraysDemo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../arraysDemo/out/production/arraysDemo/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../arraysDemo/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../conditionals/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../conditionals/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../conditionals/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../conditionals/conditionals.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../conditionals/out/production/conditionals/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../conditionals/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../datatypes/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../datatypes/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../datatypes/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../datatypes/datatypes.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../datatypes/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javaHelloWorld/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javaHelloWorld/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javaHelloWorld/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javaHelloWorld/javaHelloWorld.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javaHelloWorld/out/production/javaHelloWorld/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javaHelloWorld/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../loopDemo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../loopDemo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../loopDemo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../loopDemo/loopDemo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../loopDemo/out/production/loopDemo/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../loopDemo/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../miniProjeAsalSayi/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../miniProjeAsalSayi/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../miniProjeAsalSayi/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../miniProjeAsalSayi/miniProjeAsalSayi.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../miniProjeAsalSayi/out/production/miniProjeAsalSayi/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../miniProjeAsalSayi/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mukemmelSayi/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mukemmelSayi/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mukemmelSayi/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mukemmelSayi/mukemmelSayi.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mukemmelSayi/out/production/mukemmelSayi/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mukemmelSayi/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../multiDimensionalArrayDemo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../multiDimensionalArrayDemo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../multiDimensionalArrayDemo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../multiDimensionalArrayDemo/multiDimensionalArrayDemo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../multiDimensionalArrayDemo/out/production/multiDimensionalArrayDemo/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../multiDimensionalArrayDemo/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../recapDemo1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../recapDemo1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../recapDemo1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../recapDemo1/out/production/recapDemo1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../recapDemo1/recapDemo1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../recapDemo1/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../recapDemo2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../recapDemo2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../recapDemo2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../recapDemo2/out/production/recapDemo2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../recapDemo2/recapDemo2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../recapDemo2/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sesliHarfler/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sesliHarfler/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sesliHarfler/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sesliHarfler/out/production/sesliHarfler/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sesliHarfler/sesliHarfler.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sesliHarfler/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../stringsDemo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../stringsDemo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../stringsDemo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../stringsDemo/out/production/stringsDemo/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../stringsDemo/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../stringsDemo/stringsDemo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../switchDemo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../switchDemo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../switchDemo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../switchDemo/out/production/switchDemo/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../switchDemo/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../switchDemo/switchDemo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../variables/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../variables/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../variables/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../variables/out/production/variables/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../variables/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../variables/variables.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2FMnZdPEGwixhiNFlQbPLwpXSTM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/javademos/IlkHaftaOdevleri/IlkHafta6SaatlikVideodakiOrnekler"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1681af07-f5f6-486b-a744-5f1b79075553" name="Changes" comment="" />
+      <created>1664310876568</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664310876568</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\javademos\IlkHaftaOdevleri\IlkHafta6SaatlikVideodakiOrnekler\.metadata\.plugins\org.eclipse.jdt.core
+2843966820.index
+1865797976.index
+4144766880.index
